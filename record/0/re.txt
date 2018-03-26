@@ -1,0 +1,1 @@
+am:4043,costmoney:20,getmoney:80,f11,b8,f10,r12,m8,m6
